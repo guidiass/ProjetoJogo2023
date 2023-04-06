@@ -2,12 +2,14 @@
 Repositório criado para colocar o código fonte do jogo - PROJETO UNI9 - Profº Thiago Traue 
 
 
-# *****INSTRUÇÕES PARA EXECUTAR O JOGO******
+<h1>*****INSTRUÇÕES PARA EXECUTAR O JOGO*****</h1>
 
-Baixe e instale o software da Godot na sua máquina para executar o jogo.
+<h3>Baixe e instale o software da Godot na sua máquina para executar o jogo.</h3>
 
-Link Windows: https://godotengine.org/download/windows/
+<a href="https://godotengine.org/download/windows/">Link Windows</a>
 
-Link Linux: https://godotengine.org/download/linux/
+<a href="https://godotengine.org/download/linux/">Link Linux</a>
 
-Link MacOS: https://godotengine.org/download/macos/
+<a href="https://godotengine.org/download/macos/">Link MacOS</a>
+
+
