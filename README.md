@@ -1,10 +1,12 @@
-# ProjetoJogo2023
-Repositório criado para colocar o código fonte do jogo - PROJETO UNI9 - Profº Thiago Traue 
+# Star Bunny
+Repositório criado para colocar o código fonte do jogo - PROJETO UNInove - Profº Thiago G. Traue 
 
 
-<h1>*****INSTRUÇÕES PARA EXECUTAR O JOGO*****</h1>
+<h1>IMPORTANTE!!</h1>
 
-<h3>Baixe e instale o software da Godot na sua máquina para executar o jogo.</h3>
+<h3>Caso queira executar o jogo na sua máquina é obrigatório que tenha o software da Godot instalado no máquina.</h3>
+
+</h3>LINKS PARA INSTALAÇÃO DA GODOT:</h3>
 
 <a href="https://godotengine.org/download/windows/">Link Windows</a>
 
@@ -13,3 +15,6 @@ Repositório criado para colocar o código fonte do jogo - PROJETO UNI9 - Profº
 <a href="https://godotengine.org/download/macos/">Link MacOS</a>
 
 
+<h3>Após isso basta importar esse repositório para a Godot e selecionar o arquivo "project.godot".</h3>
+
+<h3>Pressione a tecla F5, que o jogo será executado.</h3>
