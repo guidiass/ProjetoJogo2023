@@ -1,5 +1,5 @@
 # Star Bunny
-Repositório criado para colocar o código fonte do jogo - PROJETO UNInove - Profº Thiago G. Traue 
+Repositório criado para colocar o código fonte do jogo - PROJETO UNINOVE - Profº Thiago G. Traue 
 
 
 <h1>IMPORTANTE!!</h1>
